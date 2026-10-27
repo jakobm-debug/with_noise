@@ -1,0 +1,38 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../Documents/Danmarks Tekniske Universitet/Nitin Jain - nostradamus_reports/C38/analysis/C38_analysis"
+		},
+		{
+			"name": "l6_e1",
+			"path": "../../../../../../../ncs/nrf_fundamentals/ncs-fund/l6/l6_e1"
+		},
+		{
+			"name": "l7_e1",
+			"path": "../../../../../../../ncs/nrf_fundamentals/ncs-fund/l7/l7_e1"
+		},
+		{
+			"name": "l8_e1",
+			"path": "../../../../../../../ncs/nrf_fundamentals/ncs-fund/l8/l8_e1"
+		},
+		{
+			"name": "l8_e2",
+			"path": "../../../../../../../ncs/nrf_fundamentals/ncs-fund/l8/l8_e2"
+		},
+		{
+			"name": "l2_e2",
+			"path": "../../../../../../../ncs/nrf_fundamentals/ncs-fund/l2/l2_e2"
+		},
+		{
+			"name": "l2_e2_sol",
+			"path": "../../../../../../../ncs/nrf_fundamentals/ncs-fund/l2/l2_e2_sol"
+		},
+		{
+			"name": "max_m10s",
+			"path": "../../max_m10s"
+		}
+	],
+	"settings": {
+		"nrf-connect.applications": []
+	}
+}
